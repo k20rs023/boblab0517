@@ -1,0 +1,47 @@
+成功例と失敗例の報酬量の閾値は198000とする
+
+ファイル名ルール
+例) td3na_0.0001a0.0002c0.6nc0.2sdn10l_1_202361
+0.0001=actorの学習率
+0.0002=criticの学習率
+0.6=ノイズのクリッピング値
+0.2=ノイズの標準偏差
+10=最大同時処理数(エッジサーバー1台あたりどのくらいのタスクを持てるか)
+1=ナンバリング
+202361=最後の30エピソードの報酬の平均値
+
+
+
+
+
+以下報酬の最大値探すコード
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws Exception {
+        Scanner sc = new Scanner(System.in);
+        
+        // 報酬量
+        List<Integer> rewardList = new ArrayList<>();  
+
+        while (sc.hasNextLine()) {
+            // 入力を受け取る
+            String inputStr = sc.nextLine();
+            
+            if(inputStr.length() > 7 && inputStr.substring(0, 7).equals("Episode")) {
+                //  報酬量の文字列切り抜き
+                int startIndex = inputStr.indexOf("Reward: ") + 8;
+                inputStr = inputStr.substring(startIndex, startIndex + 6);
+                // 数値にしてリストに追加
+                rewardList.add(Integer.parseInt(inputStr));
+            }
+        }
+
+        // 降順ソート
+        Collections.sort(rewardList, Collections.reverseOrder());
+
+        // 最大値を出力
+        System.out.println(rewardList.get(0));
+    }
+}
+    
