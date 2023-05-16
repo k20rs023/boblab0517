@@ -1,0 +1,182 @@
+time(s):3000
+
+task_number:90
+
+edge_number:10
+
+limit:10
+
+task information:
+req_u2e_size:270000
+process_loading:1080000
+req_e2u_size:96
+
+Episode:  0 Reward: 191326###  r_var: 1.00 b_var: 1.00 
+Episode:  1 Reward: 191988###  r_var: 1.00 b_var: 1.00 
+Episode:  2 Reward: 191454###  r_var: 1.00 b_var: 1.00 
+Episode:  3 Reward: 192199###  r_var: 1.00 b_var: 1.00 
+Episode:  4 Reward: 192319###  r_var: 1.00 b_var: 1.00 
+Episode:  5 Reward: 192380###  r_var: 0.97 b_var: 0.97 
+Episode:  6 Reward: 192391###  r_var: 0.97 b_var: 0.97 
+Episode:  7 Reward: 191893###  r_var: 0.97 b_var: 0.97 
+Episode:  8 Reward: 191990###  r_var: 0.97 b_var: 0.97 
+Episode:  9 Reward: 192261###  r_var: 0.97 b_var: 0.97 
+Episode: 10 Reward: 191486###  r_var: 0.94 b_var: 0.94 
+Episode: 11 Reward: 189928###  r_var: 0.94 b_var: 0.94 
+Episode: 12 Reward: 191820###  r_var: 0.94 b_var: 0.94 
+Episode: 13 Reward: 192202###  r_var: 0.94 b_var: 0.94 
+Episode: 14 Reward: 193363###  r_var: 0.94 b_var: 0.94 
+Episode: 15 Reward: 192244###  r_var: 0.94 b_var: 0.94 
+Episode: 16 Reward: 191894###  r_var: 0.91 b_var: 0.91 
+Episode: 17 Reward: 192133###  r_var: 0.91 b_var: 0.91 
+Episode: 18 Reward: 192837###  r_var: 0.91 b_var: 0.91 
+Episode: 19 Reward: 191689###  r_var: 0.91 b_var: 0.91 
+Episode: 20 Reward: 192887###  r_var: 0.91 b_var: 0.91 
+Episode: 21 Reward: 192275###  r_var: 0.91 b_var: 0.91 
+Episode: 22 Reward: 193256###  r_var: 0.89 b_var: 0.89 
+Episode: 23 Reward: 193288###  r_var: 0.89 b_var: 0.89 
+Episode: 24 Reward: 192847###  r_var: 0.89 b_var: 0.89 
+Episode: 25 Reward: 193093###  r_var: 0.89 b_var: 0.89 
+Episode: 26 Reward: 191829###  r_var: 0.89 b_var: 0.89 
+Episode: 27 Reward: 192810###  r_var: 0.86 b_var: 0.86 
+Episode: 28 Reward: 193071###  r_var: 0.86 b_var: 0.86 
+Episode: 29 Reward: 192806###  r_var: 0.86 b_var: 0.86 
+Episode: 30 Reward: 192933###  r_var: 0.86 b_var: 0.86 
+Episode: 31 Reward: 193607###  r_var: 0.86 b_var: 0.86 
+Episode: 32 Reward: 192130###  r_var: 0.84 b_var: 0.84 
+Episode: 33 Reward: 193708###  r_var: 0.84 b_var: 0.84 
+Episode: 34 Reward: 193702###  r_var: 0.84 b_var: 0.84 
+Episode: 35 Reward: 192749###  r_var: 0.84 b_var: 0.84 
+Episode: 36 Reward: 193723###  r_var: 0.84 b_var: 0.84 
+Episode: 37 Reward: 193744###  r_var: 0.81 b_var: 0.81 
+Episode: 38 Reward: 193293###  r_var: 0.81 b_var: 0.81 
+Episode: 39 Reward: 193982###  r_var: 0.81 b_var: 0.81 
+Episode: 40 Reward: 193749###  r_var: 0.81 b_var: 0.81 
+Episode: 41 Reward: 193783###  r_var: 0.81 b_var: 0.81 
+Episode: 42 Reward: 193295###  r_var: 0.79 b_var: 0.79 
+Episode: 43 Reward: 193187###  r_var: 0.79 b_var: 0.79 
+Episode: 44 Reward: 194090###  r_var: 0.79 b_var: 0.79 
+Episode: 45 Reward: 193506###  r_var: 0.79 b_var: 0.79 
+Episode: 46 Reward: 193624###  r_var: 0.79 b_var: 0.79 
+Episode: 47 Reward: 194286###  r_var: 0.79 b_var: 0.79 
+Episode: 48 Reward: 194252###  r_var: 0.76 b_var: 0.76 
+Episode: 49 Reward: 193263###  r_var: 0.76 b_var: 0.76 
+Episode: 50 Reward: 193309###  r_var: 0.76 b_var: 0.76 
+Episode: 51 Reward: 194209###  r_var: 0.76 b_var: 0.76 
+Episode: 52 Reward: 194417###  r_var: 0.76 b_var: 0.76 
+Episode: 53 Reward: 194764###  r_var: 0.76 b_var: 0.76 
+Episode: 54 Reward: 193968###  r_var: 0.74 b_var: 0.74 
+Episode: 55 Reward: 194365###  r_var: 0.74 b_var: 0.74 
+Episode: 56 Reward: 193875###  r_var: 0.74 b_var: 0.74 
+Episode: 57 Reward: 193899###  r_var: 0.74 b_var: 0.74 
+Episode: 58 Reward: 193418###  r_var: 0.74 b_var: 0.74 
+Episode: 59 Reward: 194212###  r_var: 0.74 b_var: 0.74 
+Episode: 60 Reward: 193729###  r_var: 0.74 b_var: 0.74 
+Episode: 61 Reward: 194090###  r_var: 0.74 b_var: 0.74 
+Episode: 62 Reward: 194448###  r_var: 0.74 b_var: 0.74 
+Episode: 63 Reward: 193224###  r_var: 0.74 b_var: 0.74 
+Episode: 64 Reward: 192741###  r_var: 0.74 b_var: 0.74 
+Episode: 65 Reward: 194091###  r_var: 0.74 b_var: 0.74 
+Episode: 66 Reward: 193886###  r_var: 0.74 b_var: 0.74 
+Episode: 67 Reward: 193953###  r_var: 0.74 b_var: 0.74 
+Episode: 68 Reward: 193649###  r_var: 0.74 b_var: 0.74 
+Episode: 69 Reward: 193278###  r_var: 0.74 b_var: 0.74 
+Episode: 70 Reward: 194186###  r_var: 0.74 b_var: 0.74 
+Episode: 71 Reward: 194466###  r_var: 0.74 b_var: 0.74 
+Episode: 72 Reward: 193990###  r_var: 0.74 b_var: 0.74 
+Episode: 73 Reward: 194076###  r_var: 0.74 b_var: 0.74 
+Episode: 74 Reward: 193528###  r_var: 0.72 b_var: 0.72 
+Episode: 75 Reward: 194661###  r_var: 0.72 b_var: 0.72 
+Episode: 76 Reward: 194023###  r_var: 0.72 b_var: 0.72 
+Episode: 77 Reward: 194982###  r_var: 0.72 b_var: 0.72 
+Episode: 78 Reward: 194286###  r_var: 0.72 b_var: 0.72 
+Episode: 79 Reward: 194557###  r_var: 0.70 b_var: 0.70 
+Episode: 80 Reward: 194058###  r_var: 0.70 b_var: 0.70 
+Episode: 81 Reward: 194457###  r_var: 0.70 b_var: 0.70 
+Episode: 82 Reward: 194538###  r_var: 0.70 b_var: 0.70 
+Episode: 83 Reward: 194406###  r_var: 0.70 b_var: 0.70 
+Episode: 84 Reward: 193584###  r_var: 0.70 b_var: 0.70 
+Episode: 85 Reward: 193905###  r_var: 0.70 b_var: 0.70 
+Episode: 86 Reward: 194264###  r_var: 0.70 b_var: 0.70 
+Episode: 87 Reward: 194199###  r_var: 0.70 b_var: 0.70 
+Episode: 88 Reward: 194302###  r_var: 0.70 b_var: 0.70 
+Episode: 89 Reward: 194667###  r_var: 0.70 b_var: 0.70 
+Episode: 90 Reward: 194322###  r_var: 0.70 b_var: 0.70 
+Episode: 91 Reward: 194464###  r_var: 0.70 b_var: 0.70 
+Episode: 92 Reward: 192885###  r_var: 0.70 b_var: 0.70 
+Episode: 93 Reward: 195016###  r_var: 0.70 b_var: 0.70 
+Episode: 94 Reward: 193788###  r_var: 0.70 b_var: 0.70 
+Episode: 95 Reward: 195168###  r_var: 0.70 b_var: 0.70 
+Episode: 96 Reward: 194527###  r_var: 0.70 b_var: 0.70 
+Episode: 97 Reward: 193510###  r_var: 0.68 b_var: 0.68 
+Episode: 98 Reward: 193914###  r_var: 0.68 b_var: 0.68 
+Episode: 99 Reward: 194373###  r_var: 0.68 b_var: 0.68 
+Episode:100 Reward: 194461###  r_var: 0.68 b_var: 0.68 
+Episode:101 Reward: 194568###  r_var: 0.68 b_var: 0.68 
+Episode:102 Reward: 195194###  r_var: 0.68 b_var: 0.68 
+Episode:103 Reward: 194988###  r_var: 0.66 b_var: 0.66 
+Episode:104 Reward: 195237###  r_var: 0.66 b_var: 0.66 
+Episode:105 Reward: 195238###  r_var: 0.66 b_var: 0.66 
+Episode:106 Reward: 194493###  r_var: 0.66 b_var: 0.66 
+Episode:107 Reward: 195197###  r_var: 0.66 b_var: 0.66 
+Episode:108 Reward: 194110###  r_var: 0.64 b_var: 0.64 
+Episode:109 Reward: 194844###  r_var: 0.64 b_var: 0.64 
+Episode:110 Reward: 194886###  r_var: 0.64 b_var: 0.64 
+Episode:111 Reward: 194897###  r_var: 0.64 b_var: 0.64 
+Episode:112 Reward: 194074###  r_var: 0.64 b_var: 0.64 
+Episode:113 Reward: 195497###  r_var: 0.64 b_var: 0.64 
+Episode:114 Reward: 194460###  r_var: 0.64 b_var: 0.64 
+Episode:115 Reward: 193785###  r_var: 0.64 b_var: 0.64 
+Episode:116 Reward: 195244###  r_var: 0.64 b_var: 0.64 
+Episode:117 Reward: 194868###  r_var: 0.64 b_var: 0.64 
+Episode:118 Reward: 194871###  r_var: 0.64 b_var: 0.64 
+Episode:119 Reward: 194246###  r_var: 0.64 b_var: 0.64 
+Episode:120 Reward: 195045###  r_var: 0.64 b_var: 0.64 
+Episode:121 Reward: 195755###  r_var: 0.64 b_var: 0.64 
+Episode:122 Reward: 195291###  r_var: 0.64 b_var: 0.64 
+Episode:123 Reward: 194399###  r_var: 0.62 b_var: 0.62 
+Episode:124 Reward: 195421###  r_var: 0.62 b_var: 0.62 
+Episode:125 Reward: 195031###  r_var: 0.62 b_var: 0.62 
+Episode:126 Reward: 195144###  r_var: 0.62 b_var: 0.62 
+Episode:127 Reward: 195152###  r_var: 0.62 b_var: 0.62 
+Episode:128 Reward: 195786###  r_var: 0.60 b_var: 0.60 
+Episode:129 Reward: 195825###  r_var: 0.60 b_var: 0.60 
+Episode:130 Reward: 195685###  r_var: 0.60 b_var: 0.60 
+Episode:131 Reward: 196750###  r_var: 0.60 b_var: 0.60 
+Episode:132 Reward: 196041###  r_var: 0.60 b_var: 0.60 
+Episode:133 Reward: 196975###  r_var: 0.58 b_var: 0.58 
+Episode:134 Reward: 196694###  r_var: 0.58 b_var: 0.58 
+Episode:135 Reward: 196454###  r_var: 0.58 b_var: 0.58 
+Episode:136 Reward: 195510###  r_var: 0.58 b_var: 0.58 
+Episode:137 Reward: 195632###  r_var: 0.58 b_var: 0.58 
+Episode:138 Reward: 195750###  r_var: 0.58 b_var: 0.58 
+Episode:139 Reward: 195732###  r_var: 0.58 b_var: 0.58 
+Episode:140 Reward: 196080###  r_var: 0.58 b_var: 0.58 
+Episode:141 Reward: 195242###  r_var: 0.58 b_var: 0.58 
+Episode:142 Reward: 195997###  r_var: 0.58 b_var: 0.58 
+Episode:143 Reward: 195553###  r_var: 0.58 b_var: 0.58 
+Episode:144 Reward: 196082###  r_var: 0.58 b_var: 0.58 
+Episode:145 Reward: 194810###  r_var: 0.58 b_var: 0.58 
+Episode:146 Reward: 194486###  r_var: 0.58 b_var: 0.58 
+Episode:147 Reward: 194302###  r_var: 0.58 b_var: 0.58 
+Episode:148 Reward: 194769###  r_var: 0.58 b_var: 0.58 
+Episode:149 Reward: 196157###  r_var: 0.58 b_var: 0.58 
+Episode:150 Reward: 195581###  r_var: 0.58 b_var: 0.58 
+Episode:151 Reward: 195711###  r_var: 0.58 b_var: 0.58 
+Episode:152 Reward: 195821###  r_var: 0.58 b_var: 0.58 
+Episode:153 Reward: 195351###  r_var: 0.58 b_var: 0.58 
+Episode:154 Reward: 194756###  r_var: 0.58 b_var: 0.58 
+Episode:155 Reward: 195042###  r_var: 0.58 b_var: 0.58 
+Episode:156 Reward: 194946###  r_var: 0.58 b_var: 0.58 
+Episode:157 Reward: 195583###  r_var: 0.58 b_var: 0.58 
+Episode:158 Reward: 195054###  r_var: 0.58 b_var: 0.58 
+Episode:159 Reward: 195811###  r_var: 0.58 b_var: 0.58 
+Episode:160 Reward: 196274###  r_var: 0.58 b_var: 0.58 
+Episode:161 Reward: 195923###  r_var: 0.58 b_var: 0.58 
+Episode:162 Reward: 196037###  r_var: 0.58 b_var: 0.58 
+the mean of the rewards:195603.83333333334
+
+the standard deviation of the rewards:628.0721871108625
+
+the range of the rewards:2673
+

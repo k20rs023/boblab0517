@@ -1,0 +1,59 @@
+time(s):3000
+
+task_number:90
+
+edge_number:10
+
+limit:10
+
+task information:
+req_u2e_size:270000
+process_loading:1080000
+req_e2u_size:96
+
+Episode:  0 Reward: 191781###  r_var: 1.00 b_var: 1.00 
+Episode:  1 Reward: 192165###  r_var: 1.00 b_var: 1.00 
+Episode:  2 Reward: 191477###  r_var: 1.00 b_var: 1.00 
+Episode:  3 Reward: 191738###  r_var: 1.00 b_var: 1.00 
+Episode:  4 Reward: 191531###  r_var: 1.00 b_var: 1.00 
+Episode:  5 Reward: 192959###  r_var: 0.97 b_var: 0.97 
+Episode:  6 Reward: 192296###  r_var: 0.97 b_var: 0.97 
+Episode:  7 Reward: 192176###  r_var: 0.97 b_var: 0.97 
+Episode:  8 Reward: 192234###  r_var: 0.97 b_var: 0.97 
+Episode:  9 Reward: 193076###  r_var: 0.97 b_var: 0.97 
+Episode: 10 Reward: 192967###  r_var: 0.94 b_var: 0.94 
+Episode: 11 Reward: 191872###  r_var: 0.94 b_var: 0.94 
+Episode: 12 Reward: 191403###  r_var: 0.94 b_var: 0.94 
+Episode: 13 Reward: 192394###  r_var: 0.94 b_var: 0.94 
+Episode: 14 Reward: 192323###  r_var: 0.94 b_var: 0.94 
+Episode: 15 Reward: 191937###  r_var: 0.94 b_var: 0.94 
+Episode: 16 Reward: 191825###  r_var: 0.94 b_var: 0.94 
+Episode: 17 Reward: 192935###  r_var: 0.94 b_var: 0.94 
+Episode: 18 Reward: 192398###  r_var: 0.94 b_var: 0.94 
+Episode: 19 Reward: 192476###  r_var: 0.94 b_var: 0.94 
+Episode: 20 Reward: 191881###  r_var: 0.94 b_var: 0.94 
+Episode: 21 Reward: 191244###  r_var: 0.94 b_var: 0.94 
+Episode: 22 Reward: 191575###  r_var: 0.94 b_var: 0.94 
+Episode: 23 Reward: 192092###  r_var: 0.94 b_var: 0.94 
+Episode: 24 Reward: 192517###  r_var: 0.94 b_var: 0.94 
+Episode: 25 Reward: 191682###  r_var: 0.94 b_var: 0.94 
+Episode: 26 Reward: 192408###  r_var: 0.94 b_var: 0.94 
+Episode: 27 Reward: 192291###  r_var: 0.94 b_var: 0.94 
+Episode: 28 Reward: 192281###  r_var: 0.94 b_var: 0.94 
+Episode: 29 Reward: 191976###  r_var: 0.94 b_var: 0.94 
+Episode: 30 Reward: 191667###  r_var: 0.94 b_var: 0.94 
+Episode: 31 Reward: 191235###  r_var: 0.94 b_var: 0.94 
+Episode: 32 Reward: 191613###  r_var: 0.94 b_var: 0.94 
+Episode: 33 Reward: 192549###  r_var: 0.94 b_var: 0.94 
+Episode: 34 Reward: 193066###  r_var: 0.94 b_var: 0.94 
+Episode: 35 Reward: 192072###  r_var: 0.94 b_var: 0.94 
+Episode: 36 Reward: 191916###  r_var: 0.94 b_var: 0.94 
+Episode: 37 Reward: 191858###  r_var: 0.94 b_var: 0.94 
+Episode: 38 Reward: 191839###  r_var: 0.94 b_var: 0.94 
+Episode: 39 Reward: 192648###  r_var: 0.94 b_var: 0.94 
+the mean of the rewards:192098.0
+
+the standard deviation of the rewards:476.4058493903421
+
+the range of the rewards:1831
+
